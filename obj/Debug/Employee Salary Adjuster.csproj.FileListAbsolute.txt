@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\Employee Salary Adjuster\bin\Debug\Employee Salary Adjuster.exe.config
+C:\Users\HP\source\repos\Employee Salary Adjuster\bin\Debug\Employee Salary Adjuster.exe
+C:\Users\HP\source\repos\Employee Salary Adjuster\bin\Debug\Employee Salary Adjuster.pdb
+C:\Users\HP\source\repos\Employee Salary Adjuster\obj\Debug\Employee Salary Adjuster.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Employee Salary Adjuster\obj\Debug\Employee Salary Adjuster.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Employee Salary Adjuster\obj\Debug\Employee Salary Adjuster.exe
+C:\Users\HP\source\repos\Employee Salary Adjuster\obj\Debug\Employee Salary Adjuster.pdb
